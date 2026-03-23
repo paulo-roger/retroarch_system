@@ -2,7 +2,7 @@
 
 Complete, verified collection of BIOS, firmware, and system files for retrogaming emulators.
 
-> **5593** files | **4681.6 MB** | **7** platforms | **275** emulator profiles
+> **5587** files | **3560.1 MB** | **8** platforms | **275** emulator profiles
 
 ## Download
 
@@ -14,19 +14,21 @@ Complete, verified collection of BIOS, firmware, and system files for retrogamin
 | Recalbox | 346 | md5 | [Download](../../releases/latest) |
 | RetroArch | 448 | existence | [Download](../../releases/latest) |
 | RetroBat | 331 | md5 | [Download](../../releases/latest) |
+| RetroDECK | 117 | md5 | [Download](../../releases/latest) |
 | RetroPie | 448 | existence | [Download](../../releases/latest) |
 
 ## Coverage
 
 | Platform | Coverage | Verified | Untested | Missing |
 |----------|----------|----------|----------|---------|
-| Batocera | 359/359 (100.0%) | 358 | 1 | 0 |
-| EmuDeck | 161/161 (100.0%) | 161 | 0 | 0 |
-| Lakka | 448/448 (100.0%) | 448 | 0 | 0 |
+| Batocera | 356/359 (99.2%) | 354 | 2 | 3 |
+| EmuDeck | 153/161 (95.0%) | 153 | 0 | 8 |
+| Lakka | 447/448 (99.8%) | 447 | 0 | 1 |
 | Recalbox | 346/346 (100.0%) | 346 | 0 | 0 |
-| RetroArch | 448/448 (100.0%) | 448 | 0 | 0 |
-| RetroBat | 331/331 (100.0%) | 331 | 0 | 0 |
-| RetroPie | 448/448 (100.0%) | 448 | 0 | 0 |
+| RetroArch | 447/448 (99.8%) | 447 | 0 | 1 |
+| RetroBat | 327/331 (98.8%) | 327 | 0 | 4 |
+| RetroDECK | 101/117 (86.3%) | 98 | 3 | 16 |
+| RetroPie | 447/448 (99.8%) | 447 | 0 | 1 |
 
 ## Documentation
 
@@ -40,4 +42,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 This repository provides BIOS files for personal backup and archival purposes.
 
-*Auto-generated on 2026-03-19T15:14:24Z*
+*Auto-generated on 2026-03-23T08:35:59Z*
